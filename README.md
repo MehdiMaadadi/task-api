@@ -23,3 +23,6 @@ A backend REST API demonstrating CRUD operations, authentication, unit tests, an
    git clone https://github.com/mehdimaadadi/task-api.git
    cd task-api
    
+## Demo
+
+![Task API running](task-api-terminal.png)
